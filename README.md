@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Backend and mobile engineer, problem solver
+- Interested in large-scale system
+- Run a small but intelligent & dedicated team, ready to build high scale system from scratch
+- Find me at hoang@teamlizer.com for cooperation
