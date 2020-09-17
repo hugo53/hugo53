@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - Backend and mobile engineer, problem solver
 - Interested in large-scale system
+- Domain Expert: financial exchange platform, live streaming, online education, digital wallet, smarthome, social network
 - Run a small but intelligent & dedicated team, ready to build highly scalable system from scratch
 - Find me at hoang@teamlizer.com for cooperation
