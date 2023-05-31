@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - Interested in large-scale system
 - Domain Expert: financial exchange platform, live streaming, online education platform, digital wallet, smarthome, social network
 - Run a small but intelligent & dedicated team, ready to build highly scalable system from scratch
-- Find me at hoang@teamlizer.com for cooperation
+- Find me at hoangnm.53@gmail.com for cooperation
